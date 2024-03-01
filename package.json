@@ -1,7 +1,7 @@
 {
-  "name": "vue-scroll-parallax",
+  "name": "origin-scroll-parallax",
   "private": false,
-  "version": "1.0.5",
+  "version": "1.0.8",
   "type": "module",
   "main": "./dist/vue-scroll-parallax.umd.cjs",
   "module": "./dist/vue-scroll-parallax.js",
